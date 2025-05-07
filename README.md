@@ -58,8 +58,7 @@ Aplicación SaaS de gestión de tareas con temáticas personalizadas, integrada 
 
 Aquí algunas de mis estadísticas recientes:
 
-<!-- GitHub Readme Stats - puedes personalizar con tu usuario -->
-![Status de Adsa06](https://github-readme-stats.vercel.app/api?username=Adsa06&show_icons=true&theme=light)
+![Status de Adsa06](https://github-readme-stats.vercel.app/api?username=Adsa06&show_icons=true&theme=dark)
 
 ---
 
