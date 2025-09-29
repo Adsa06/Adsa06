@@ -12,7 +12,7 @@
 
 - **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
   Centro: IES Isidra de Guzman, Madrid 28806  
-  Curso: 1º (en curso) – 2024 – 2025
+  Curso: 2º (en curso) – 2024 – 2025
 
 ---
 
