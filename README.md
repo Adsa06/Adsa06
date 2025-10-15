@@ -60,6 +60,8 @@ Aquí algunas de mis estadísticas recientes:
 
 ![Status de Adsa06](https://github-readme-stats.vercel.app/api?username=Adsa06&show_icons=true&theme=dark)
 
+
+[![Codewars](https://www.codewars.com/users/Adsa06/badges/large)](https://www.codewars.com/users/Adsa06)
 ---
 
 ## 📫 ¿Cómo contactarme?
