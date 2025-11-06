@@ -6,13 +6,13 @@
 
 ## 🎓 Formación académica
 
-- **Bachillerato de Ciencias**  
-  Centro: IES Arquitecto Pedro Gumiel, Madrid 28806  
-  Años: 2022 – 2024
-
 - **FP Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
   Centro: IES Isidra de Guzman, Madrid 28806  
   Curso: 2º (en curso) – 2024 – 2025
+
+- **Bachillerato de Ciencias**  
+  Centro: IES Arquitecto Pedro Gumiel, Madrid 28806  
+  Años: 2022 – 2024
 
 ---
 
